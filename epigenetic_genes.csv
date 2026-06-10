@@ -1,4 +1,4 @@
-Проверяемое семейство,Категория,Название гена,Белок (AUGUSTUS),Координаты гена
+Проверяемое семейство,Категория,Название гена,Белок,Координаты гена
 "PF00176 SNF2_N - SNF2 АТФазы (SWI/SNF, ISWI, CHD)",Chromatin remodeling,CAEBRE_01914,CAL2029182.1,OZ038406.1:7822363-7826583(+)
 "PF00176 SNF2_N - SNF2 АТФазы (SWI/SNF, ISWI, CHD)",Chromatin remodeling,CAEBRE_02468,CAL2029736.1,OZ038406.1:9960443-9966844(+)
 "PF00176 SNF2_N - SNF2 АТФазы (SWI/SNF, ISWI, CHD)",Chromatin remodeling,CAEBRE_02672,CAL2029940.1,OZ038406.1:10833516-10844477(+)
