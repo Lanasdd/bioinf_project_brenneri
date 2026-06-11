@@ -68,7 +68,7 @@ N6-метиладенин (6mA) встречается преимуществе�
 | PF00385 Chromo - Хромодомен - чтение метил-лизина (HP1) | Histone methyl (read) | 37 |
 | PF00583 Acetyltransf_1 - GNAT ацетилтрансферазы | Histone acetylation (write) | 27 |
 | PF02373 JmjC - JmjC гистон-деметилазы (KDM) | Histone demethylation (erase) | 27 |
-| PF00628 PHD - PHD-палец - чтение метилирования | Histone (read) | 26 |
+| PF00628 PHD - PHD- чтение метилирования | Histone (read) | 26 |
 | PF00176 SNF2_N - SNF2 АТФазы (SWI/SNF, ISWI, CHD) | Chromatin remodeling | 20 |
 | PF02463 SMC_N - SMC-белки (когезин/конденсин) | Cohesin/Condensin | 18 |
 | PF00439 Bromodomain - Бромодомен - чтение ацетил-лизина | Histone acetyl (read) | 13 |
