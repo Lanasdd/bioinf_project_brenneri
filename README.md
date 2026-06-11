@@ -61,8 +61,8 @@ N6-метиладенин (6mA) встречается преимуществе�
 | Этап | Инструмент / параметры |
 |---|---|
 | Скачивание данных | NCBI FTP, `*_genomic.fna.gz`, `*_genomic.gtf.gz`, `*_protein.faa.gz` |
-| Эпигенетические гены | HMMER 3.3.2 `hmmsearch --cut_ga` по 16 профилям Pfam (InterPro API) против протеома; сопоставление с GTF по `protein_id` → `gene_id` |
-| G-квадруплексы | regex `(G{3,5}[ATGC]{1,7}){3,}G{3,5}` на обоих стрендах (на «−» — C-паттерн), верхний регистр |
+| Эпигенетические гены | HMMER 3.3.2 `hmmsearch --cut_ga` по 16 профилям Pfam (InterPro API) против протеома; сопоставление с GTF по `protein_id` -> `gene_id` |
+| G-квадруплексы | regex `(G{3,5}[ATGC]{1,7}){3,}G{3,5}` на обоих стрендах (на «−» C-паттерн), верхний регистр |
 | Z-ДНК | `zhunt` (Ho Lab), `windowsize=12 min=8 max=12`, фильтр Z-Hunt score > 400 |
 | Распределение по геному | `bedtools` (exons, introns, promoters = 1000 bp до TSS, downstream = 200 bp, intergenic) |
 | Сравнение с фоном | `bedtools shuffle` (5 перестановок); обогащение = доля набл. / доля фон |
